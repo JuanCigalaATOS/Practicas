@@ -1,0 +1,25 @@
+#form {
+  background-color: lightskyblue;
+  padding: 10px;
+  display: block;
+}
+
+.subtitle {
+  color: red;
+}
+
+table,
+tr,
+th,
+td {
+  border-collapse: collapse;
+  border: solid black 2px;
+}
+
+table{
+    margin-top: 1rem;
+}
+
+th, td{
+    padding: 0.5rem;
+}
