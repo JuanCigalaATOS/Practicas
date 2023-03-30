@@ -1,0 +1,15 @@
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(43, 195, 226);
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+p{
+    display: inline-block;
+}
+
+a{
+    display: block;
+}
